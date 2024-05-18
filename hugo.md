@@ -45,6 +45,11 @@ hugo server -D
 
 ## Build the site
 
+> [!NOTE]
+> If deploying to GitHub Pages, be sure to set the update the `baseURL` in the `config.toml` file to the correct URL.
+> 
+> For example, if deploying to `https://username.github.io/repo-name/`, the `baseURL` should be set to `https://username.github.io/repo-name/`.
+
 ```bash
 hugo
 ```
@@ -60,4 +65,9 @@ hugo
 - [Hugo](https://gohugo.io/)
 - [Hugo Themes](https://themes.gohugo.io/)
 - [Hugo Docs](https://gohugo.io/documentation/)
+
+
+
+
+
 
