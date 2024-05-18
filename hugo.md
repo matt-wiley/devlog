@@ -100,7 +100,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
+          # Upload the public directory to GitHub Pages
           path: 'public'
       - name: Deploy to GitHub Pages
         id: deployment
