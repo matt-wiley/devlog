@@ -42,7 +42,8 @@ hugo new posts/my-first-post.md
 ### Start the server
 
 ```bash
-hugo server -D
+hugo server # Start the serverr
+hugo server -D # Start the server with draft contentt
 ```
 
 ### Build the site
