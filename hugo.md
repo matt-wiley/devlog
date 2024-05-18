@@ -10,26 +10,28 @@
 6. Build the site
 7. Deploy the site
 
-## Install Hugo
+### Install Hugo
 
 ```bash
 brew install hugo
 ```
 
-## Create a new site
+### Create a new site
 
 ```bash
 hugo new site mysite
 ```
 
-## Add a theme
-<!-- TODO:  Complete this. Doesn't look right. -->
+### Add a theme
+
+> [!NOTE]
+> Here we're creating a new basic theme. You can also use an existing theme by cloning it into the `themes` directory.  
 
 ```bash
 hugo new theme hugo001theme
 ```
 
-## Create a new post
+### Create a new post
 
 ```bash
 hugo new posts/my-first-post.md
@@ -37,13 +39,13 @@ hugo new posts/my-first-post.md
 
 
 
-## Start the server
+### Start the server
 
 ```bash
 hugo server -D
 ```
 
-## Build the site
+### Build the site
 
 > [!NOTE]
 > If deploying to GitHub Pages, be sure to set the update the `baseURL` in the `config.toml` file to the correct URL.
@@ -55,9 +57,9 @@ hugo # Build non-draft content to public directory
 hugo -D # Build draft content to public directory
 ```
 
-## Deploy the site
+### Deploy the site
 
-### GitHub Pages
+#### GitHub Pages
 
 The following is a simple GitHub Actions workflow for deploying a Hugo site to GitHub Pages.
 
