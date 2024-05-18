@@ -55,4 +55,9 @@ hugo
 ```bash
 ```
 
+## Links
+
+- [Hugo](https://gohugo.io/)
+- [Hugo Themes](https://themes.gohugo.io/)
+- [Hugo Docs](https://gohugo.io/documentation/)
 
