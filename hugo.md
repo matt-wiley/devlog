@@ -61,7 +61,7 @@ hugo -D # Build draft content to public directory
 
 The following is a simple GitHub Actions workflow for deploying a Hugo site to GitHub Pages.
 
-```bash
+```yaml
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy to Pages
 
