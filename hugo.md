@@ -47,6 +47,7 @@ hugo server -D # Start the server with draft contentt
 ```
 
 ### Build the site
+<!-- TODO: Test TODO comment -->
 
 > [!NOTE]
 > If deploying to GitHub Pages, be sure to set the update the `baseURL` in the `config.toml` file to the correct URL.
