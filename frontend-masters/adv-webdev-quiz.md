@@ -77,3 +77,26 @@
     - `queueMicrotask` callbacks 
     - `async` / `await` 
     - `MutationObserver` callbacks
+
+- Event Loop
+    - Responsible for running tasks from the task queue 
+    - Microtask queue is cleared first (`Promises` and `async`/`await`)
+    - Macrotask queue is cleared when the Microtask queue is empty
+
+
+### `new Promise()`
+
+> [!IMPORTANT] 
+> Promises are executed synchronously.
+
+These are equivalent:
+
+```
+console.log("Hello right now!")
+```
+
+```
+new Promise(() => { console.log("Hello right now!") })
+```
+
+
