@@ -99,4 +99,22 @@ console.log("Hello right now!")
 new Promise(() => { console.log("Hello right now!") })
 ```
 
+In the quiz question, the following is presented with the question "what is the output in the console?" 
 
+``` 
+setTimeout(() => console.log(1) );
+Promise.resolve().then(() => console.log(2) );
+Promise.resolve().then(setTimeout(() => console.log(3) ));
+new Promise(() => console.log(4) );
+setTimeout(() => console.log(5) );
+```
+
+The output is
+
+```
+4 
+2 
+1 
+5 
+3
+```
