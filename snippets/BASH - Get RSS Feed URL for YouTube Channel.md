@@ -1,3 +1,4 @@
+# [[BASH - Get RSS Feed URL for YouTube Channel]]
 
 ```bash
 #!/usr/bin/env bash
