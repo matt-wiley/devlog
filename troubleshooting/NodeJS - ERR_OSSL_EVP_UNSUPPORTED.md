@@ -7,5 +7,5 @@
 - As of NodeJS 17, this error can can be worked around by using the `--openssl-legacy-provider` option when running Node. For frontend projects this typically means prepending node commands with a `NODE_OPTIONS` env var as follows:
 
 ```bash
-
+NODE_OPTIONS=--openssl-legacy-provider npm run start
 ```
