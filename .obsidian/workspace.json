@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend-masters/adv-webdev-quiz.md",
+                "file": "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "860a161237a6e5ac",
+            "id": "b67791984202c153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/Get RSS Feed URL for YouTube Channel.md",
+                "file": "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 327.5
   },
   "right": {
     "id": "9562c851bb8c569d",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snippets/Get RSS Feed URL for YouTube Channel.md",
+                "file": "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snippets/Get RSS Feed URL for YouTube Channel.md",
+                "file": "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/Get RSS Feed URL for YouTube Channel.md"
+                "file": "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md"
               }
             }
           }
@@ -160,14 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3c5feff06afd9d5",
+  "active": "b024f1a0395a5bfe",
   "lastOpenFiles": [
-    "Snippets.md",
-    "snippets/Get RSS Feed URL for YouTube Channel.md",
-    "snippets",
-    "Typescript - Running with Node.md",
+    "snippets/BASH - Get RSS Feed URL for YouTube Channel.md",
+    "snippets/Typescript - Running with Node.md",
+    "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
     "frontend-masters/adv-webdev-quiz.md",
-    "frontend-masters/promises.md",
-    "hugo.md"
+    "hugo.md",
+    "troubleshooting",
+    "Snippets.md",
+    "snippets",
+    "frontend-masters/promises.md"
   ]
 }
