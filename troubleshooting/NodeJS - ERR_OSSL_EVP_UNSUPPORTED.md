@@ -1,4 +1,7 @@
 
+# [[NodeJS - ERR_OSSL_EVP_UNSUPPORTED]]
+
+- https://stackoverflow.com/a/75961537
 - [builtin.com - How To Fix the ERR_OSSL_EVP_UNSUPPORTED Error in Node.js | Built In](https://builtin.com/software-engineering-perspectives/err-ossl-evp-unsupported)
 
 > [!important] NODE.js ERR_OSL_EVP_UNSUPPORTED ERROR Explained
