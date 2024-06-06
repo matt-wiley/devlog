@@ -18,7 +18,7 @@
 - `async`
     - using `async` allows the fetching of the script to happen off the main thread
     - script will be executed immediately, once downloaded
-    - exection still happens on the main thread and may interrupt rendering (HTML Parsing / DOM Loading)
+    - execution still happens on the main thread and may interrupt rendering (HTML Parsing / DOM Loading)
     - **NOTE:** no guaranteed execution timing, or ordering
 
 - `defer`

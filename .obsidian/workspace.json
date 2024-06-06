@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b67791984202c153",
+            "id": "2121975e0f3e7c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
+                "file": "snippets/BASH - Get RSS Feed URL for YouTube Channel.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 225.5
   },
   "right": {
     "id": "9562c851bb8c569d",
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,9 +161,10 @@
   "active": "b024f1a0395a5bfe",
   "lastOpenFiles": [
     "snippets/BASH - Get RSS Feed URL for YouTube Channel.md",
+    "frontend-masters/adv-webdev-quiz.md",
     "snippets/Typescript - Running with Node.md",
     "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
-    "frontend-masters/adv-webdev-quiz.md",
+    "Apps - Handling Adaptive Theming.md",
     "hugo.md",
     "troubleshooting",
     "Snippets.md",
