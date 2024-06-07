@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b024f1a0395a5bfe",
+            "id": "22f8e406d2c862ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend-masters/adv-webdev-quiz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2121975e0f3e7c49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snippets/BASH - Get RSS Feed URL for YouTube Channel.md",
+                "file": "NerdFonts.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 327.5
   },
   "right": {
     "id": "9562c851bb8c569d",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontend-masters/adv-webdev-quiz.md",
+                "file": "NerdFonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontend-masters/adv-webdev-quiz.md",
+                "file": "NerdFonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend-masters/adv-webdev-quiz.md"
+                "file": "NerdFonts.md"
               }
             }
           }
@@ -146,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,14 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b024f1a0395a5bfe",
+  "active": "22f8e406d2c862ca",
   "lastOpenFiles": [
+    "devlog.code-workspace",
+    "hugo.md",
+    "NerdFonts.md",
     "snippets/BASH - Get RSS Feed URL for YouTube Channel.md",
     "frontend-masters/adv-webdev-quiz.md",
-    "snippets/Typescript - Running with Node.md",
-    "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
     "Apps - Handling Adaptive Theming.md",
-    "hugo.md",
+    "troubleshooting/NodeJS - ERR_OSSL_EVP_UNSUPPORTED.md",
+    "snippets/Typescript - Running with Node.md",
     "troubleshooting",
     "Snippets.md",
     "snippets",
