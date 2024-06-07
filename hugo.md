@@ -25,7 +25,7 @@ hugo new site mysite
 ### Add a theme
 
 > [!NOTE]
-> Here we're creating a new basic theme. You can also use an existing theme by cloning it into the `themes` directory.  
+> Here we're creating a new basic theme. You can also use an existing theme by cloning it into the `themes` directory.
 
 ```bash
 hugo new theme hugo001theme
@@ -37,8 +37,6 @@ hugo new theme hugo001theme
 hugo new posts/my-first-post.md
 ```
 
-
-
 ### Start the server
 
 ```bash
@@ -47,11 +45,12 @@ hugo server -D # Start the server with draft contentt
 ```
 
 ### Build the site
+
 <!-- TODO: Test TODO comment -->
 
 > [!NOTE]
 > If deploying to GitHub Pages, be sure to set the update the `baseURL` in the `config.toml` file to the correct URL.
-> 
+>
 > For example, if deploying to `https://username.github.io/repo-name/`, the `baseURL` should be set to `https://username.github.io/repo-name/`.
 
 ```bash
@@ -105,7 +104,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload the public directory to GitHub Pages
-          path: 'public'
+          path: "public"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
@@ -116,9 +115,3 @@ jobs:
 - [Hugo](https://gohugo.io/)
 - [Hugo Themes](https://themes.gohugo.io/)
 - [Hugo Docs](https://gohugo.io/documentation/)
-
-
-
-
-
-
